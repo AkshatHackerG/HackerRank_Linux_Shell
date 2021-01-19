@@ -2,7 +2,7 @@
 
 This repository contains solutions of Linux Shell from platform Hackerrank.
 
-Numbering of solutions is done in correspondence with questions mentioned on Hackerrank platform
+Numbering of solutions is done in correspondence with questions mentioned on Hackerrank platform.
 
 Solutions are divided into 3 categories:
 |S NO.|Questions|Level|
